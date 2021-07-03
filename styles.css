@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+.main-container {
+  
+  display: flex-out;
+  background-color: blue;
+  width: 50%;
+}
