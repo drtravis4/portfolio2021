@@ -5,6 +5,6 @@ body {
 .main-container {
   
   display: flex-out;
-  background-color: blue;
+  background-color: rgb(225, 233, 226);
   width: 50%;
 }
